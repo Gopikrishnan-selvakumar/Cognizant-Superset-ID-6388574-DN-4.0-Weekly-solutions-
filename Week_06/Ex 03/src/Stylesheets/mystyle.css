@@ -1,0 +1,13 @@
+.score-container {
+    border: 2px solid #333;
+    padding: 20px;
+    margin: 20px;
+    width: 400px;
+    border-radius: 8px;
+    background-color: #f4f4f4;
+}
+
+.score-container h2 {
+    color: #007bff;
+    text-align: center;
+}

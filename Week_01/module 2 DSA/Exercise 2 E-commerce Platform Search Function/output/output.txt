@@ -1,0 +1,14 @@
+"C:\Program Files\Java\jdk-17\bin\java.exe" "-javaagent:C:\Users\gobik\AppData\Local\JetBrains\IntelliJ IDEA 2025.1.2\lib\idea_rt.jar=50276" -Dfile.encoding=UTF-8 -classpath "D:\intellij\module 2 dsa\Exercise 2 E-commerce Platform Search Function\out\production\Exercise 2 E-commerce Platform Search Function" Main
+
+
+Product Catalog:
+[105, Keyboard, Electronics]
+[201, Running Shoes, Sports]
+[305, Coffee Mug, Kitchen]
+[409, Backpack, Accessories]
+[512, Smartphone, Electronics]
+
+Linear Search Result: [409, Backpack, Accessories]
+Binary Search Result: [409, Backpack, Accessories]
+
+Process finished with exit code 0
